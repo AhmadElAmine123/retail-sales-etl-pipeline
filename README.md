@@ -91,8 +91,8 @@ A production-grade ETL pipeline for processing online retail transaction data, b
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/retail-sales-etl.git
-   cd retail-sales-etl
+   git clone https://github.com/AhmadElAmine123/retail-sales-etl-pipeline.git
+   cd retail-sales-etl-pipeline
    ```
 
 2. **Configure environment variables**
@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Ahmad - Data Engineer
+[Ahmad](https://github.com/AhmadElAmine123) - Data Engineer
 
 ---
 
