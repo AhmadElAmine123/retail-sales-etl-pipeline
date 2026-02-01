@@ -1,0 +1,10 @@
+{
+  "kaggle_dataset": {
+    "name": "Online Retail Dataset",
+    "source": "Kaggle",
+    "dataset_id": "2827948/4877104",
+    "url": "https://storage.googleapis.com/kaggle-data-sets/2827948/4877104/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20251120%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251120T211752Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=7ce31e7755a3c66fb39e29b11e05887e3aa8126fd02a0a114360e77940e8f893ed7b92a9243d1b00036dd661f0653593f15489516691a1a666796572d4edd771c42125a2e4d48e7c1ee8e3e00e5ab7674c64c9bc97c2539258f374490022c58cab68f055e4d57af897836a8b9a57eba67dc7d60dd522cd3ab33fa6cfe2a0eccffdd2fca4a47d130af84d59bb1e7b8cb1ca59bf75c09a4602f054fb4a28c67e146ac56207e0ce142c33576c4ee08703d2a8258d257b8f5df8df4bead02bdbbf69f3388c7e794cd976d6108abeffb253896721abb4abced6deb380644117659ac8eb724c8a9546c1ca9816ff19d60d1e11bcc6e355cc96d59ff005e1007af04527",
+    "note": "This URL contains a signed token that may expire. Update this URL by running: curl the download link and paste it here.",
+    "last_updated": "2025-11-20"
+  }
+}
